@@ -27,7 +27,7 @@ For more detail, Udacity has a great blog post on this topic: [3 Web Dev Careers
 ### Types of Careers
 
 Now that you know about the different types of web developers, let's cover what we mentioned earlier about the different types of clients and employers you may work with.
-
+how are u doing
 Large tech companies, such as Google, Meta, and Amazon, have very stringent hiring requirements. If you successfully meet these expectations, they offer excellent pay, benefits, and opportunities.
 
 Startups are a bit like the wild west. For a junior developer, it can feel like a trial by fire because of the pace of development. Startups often offer slightly lower salaries and require longer hours, but they may also offer equity in the company and highly unique environments.
